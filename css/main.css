@@ -333,10 +333,12 @@ li {
   flex-direction: column;
   padding: 20px;
 }
+
 .contact-me h1,
 .contact-me p {
   text-align: center;
 }
+
 .contact-me p {
   margin: 20px 0;
 }
@@ -351,6 +353,7 @@ li {
   padding: 0 10px;
   border-radius: 5px;
 }
+
 .input-content textarea {
   border-radius: 5px;
 }
