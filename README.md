@@ -1,5 +1,45 @@
-# curriculum-cr-training-contact-form
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+![](https://img.shields.io/badge/Microverse-blueviolet)
+# Contact form
+  This is a part of a portfolio project that will help people to contact the portfolio owner
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+## Built With
+
+- HTML
+- SASS and CSS
+
+## Live Demo
+
+[Live Demo Link](https://rawcdn.githack.com/rukundoeric/contact_form/995e757090986427c2d7325bce0f3d2897dcbe87/index.html)
+
+## Getting Started
+NOTE: Make sure you have Node.js and npm or yarn installed in your PC.
+- Clone this repo: `git clone https://github.com/rukundoeric/contact_form.git`
+- Navigate into project directory: `cd contact-form`
+- then run app with live-server
+
+## Authors
+
+👤 **Rukundo Eric**
+
+- GitHub: [@githubhandle](https://github.com/rukundoeric)
+- Twitter: [@twitterhandle](https://twitter.com/rukundoeric005)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rukundo-eric-000bba181/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/rukundoeric/contact_form/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- I would like to thank our code reviewer and anyone else who participated in making this done.
+
+## 📝 License
+
+This project is [MIT](./LICENCE) licensed.

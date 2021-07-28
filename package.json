@@ -1,0 +1,26 @@
+{
+  "name": "curriculum-cr-training-contact-form",
+  "version": "1.0.0",
+  "description": "This repo host an initial code for the tasks performed during the Code Reviewers training.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukundoeric/contact_form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rukundoeric/contact_form/issues"
+  },
+  "homepage": "https://github.com/rukundoeric/contact_form#readme",
+  "devDependencies": {
+    "hint": "^6.1.4",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.20.1"
+  }
+}
