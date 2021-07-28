@@ -10,11 +10,11 @@
 
 ## Live Demo
 
-[Live Demo Link](https://book-store-b.herokuapp.com/)
+[Live Demo Link](https://rawcdn.githack.com/rukundoeric/contact_form/995e757090986427c2d7325bce0f3d2897dcbe87/index.html)
 
 ## Getting Started
 NOTE: Make sure you have Node.js and npm or yarn installed in your PC.
-- Clone this repo: `git clone https://github.com/rukundoeric/bookstore.git`
+- Clone this repo: `git clone https://github.com/rukundoeric/contact_form.git`
 - Navigate into project directory: `cd contact-form`
 - then run app with live-server
 
@@ -30,7 +30,7 @@ NOTE: Make sure you have Node.js and npm or yarn installed in your PC.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/rukundoeric/bookstore/issues).
+Feel free to check the [issues page](https://github.com/rukundoeric/contact_form/issues).
 
 ## Show your support
 
